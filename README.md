@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayush-code28
-- 👀 I’m interested in Coding (C,CPP,CSS,HTML,PYTHON)
-- 🌱 I’m currently learning JAVA AND JAVASCRIPT 
-- 💞️ I’m looking to collaborate on WEB DEVELOPMENT 
+- 👀 I’m interested in Coding (C,CPP,JS,CSS,HTML,PYTHON,JAVA)
+- 🌱 I’m currently learning AI and ML
+- 💞️ I’m looking to collaborate on WEB DEVELOPMENT, FrontEnd, and BackEnd.
 - 📫 How to reach me ayush.sharma28@outlook.com
 
 <!---
