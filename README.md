@@ -9,8 +9,7 @@
 
 ### 📊 GitHub Stats
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-code28&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-code28&layout=compact&theme=radical)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-code28&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-code28&layout=compact&theme=radical)
 
 ---
 
