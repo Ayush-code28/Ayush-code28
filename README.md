@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on network automation & backend systems  
 - 🌱 I’m learning DevOps, Docker, and C System Programming  
 - 💬 Ask me about Java, C, Sockets, and GitHub Actions  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayush-sharma-8a135428)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayush-sharma-8a1354281)  
 
 ---
 
