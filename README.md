@@ -8,3 +8,4 @@
 Ayush-code28/Ayush-code28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Snake animation](https://Ayush-code28.github.io/snk/github-contribution-grid-snake.svg)
