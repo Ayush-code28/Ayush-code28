@@ -15,7 +15,7 @@
 
 ### 🐍 GitHub Contribution Snake
 
-![Snake animation](https://Ayush-code28.github.io/snk/github-contribution-grid-snake-black.svg)
+![Snake animation](https://Ayush-code28.github.io/snk/github-contribution-grid-snake-dark.svg)
 
 ### 🧰 Tech Stack
 
