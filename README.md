@@ -20,9 +20,7 @@
 
 ### 🧰 Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
