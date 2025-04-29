@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @Ayush-code28
-- 👀 I’m interested in Coding (C,CPP,JS,CSS,HTML,PYTHON,JAVA)
-- 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on WEB DEVELOPMENT, FrontEnd, and BackEnd.
-- 📫 How to reach me ayush.sharma28@outlook.com
+### Hi there 👋 I'm Ayush Sharma
 
-<!---
-Ayush-code28/Ayush-code28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on network automation & backend systems  
+- 🌱 I’m learning DevOps, Docker, and C System Programming  
+- 💬 Ask me about Java, C, Sockets, and GitHub Actions  
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile)  
+
+---
+
+### 📊 GitHub Stats
+
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-code28&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-code28&layout=compact&theme=radical)
+
+---
+
+### 🐍 GitHub Contribution Snake
+
 ![Snake animation](https://Ayush-code28.github.io/snk/github-contribution-grid-snake.svg)
